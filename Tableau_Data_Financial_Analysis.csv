@@ -1,0 +1,170 @@
+﻿Year,Company,Metric,Value
+2023,GM,Debt to EBITDA,5.75
+2022,GM,Debt to EBITDA,5.31
+2021,GM,Debt to EBITDA,5.12
+2023,Ford,Debt to EBITDA,12.46
+2022,Ford,Debt to EBITDA,10.88
+2021,Ford,Debt to EBITDA,13.17
+,Ford,ROE,10.16%
+,GM,ROE,15.75%
+2023,Ford,Debt to Equity,3.49
+2022,Ford,Debt to Equity,3.22
+2021,Ford,Debt to Equity,2.84
+2023,GM,Debt to Equity,1.79
+2022,GM,Debt to Equity,1.59
+2021,GM,Debt to Equity,1.66
+2023,Ford,Stock Price (12/29/23),12.19
+2023,Ford,Diluted Share Price,1.08
+2023,Ford,Price/Earnings Ratio,11.29
+2023,GM,Stock Price (12/29/23),35.92
+2023,GM,Diluted Share Price,7.32
+2023,GM,Price/Earnings Ratio,4.907103825
+2023,Ford,P/E Ratio,11.28703704
+2023,Ford,Avg. Annual EPS Growth Rate,-2.157096996
+2023,Ford,PEG Ratio,-0.052325125
+2023,GM,P/E Ratio,4.907103825
+2023,GM,Avg. Annual EPS Growth Rate,0.054526308
+2023,GM,PEG Ratio,0.899951601
+2023,Ford,Total Revenues,"$176,191 "
+2022,Ford,Total Revenues,"$158,057 "
+2021,Ford,Total Revenues,"$136,341 "
+2020,Ford,Total Revenues,"$127,140 "
+2019,Ford,Total Revenues,"$155,900 "
+2023,Ford,Net income/(loss),"4,329"
+2022,Ford,Net income/(loss),"-2,152"
+2021,Ford,Net income/(loss),"17,910"
+2023,Ford,Diluted earnings per common share,$1.08 
+2022,Ford,Diluted earnings per common share,($0.49)
+2021,Ford,Diluted earnings per common share,$4.45 
+2023,GM,Diluted earnings per common share,$7.32 
+2022,GM,Diluted earnings per common share,$6.13 
+2021,GM,Diluted earnings per common share,$6.70 
+2023,GM,Total Revenues,"171,842"
+2022,GM,Total Revenues,"156,735"
+2021,GM,Total Revenues,"127,004"
+2020,GM,Total Revenues,"122,485"
+2019,GM,Total Revenues,"137,237"
+2023,GM,Net income/(loss),"9,840"
+2022,GM,Net income/(loss),"9,708"
+2021,GM,Net income/(loss),"9,945"
+2023,GM,EBITDA,"21,186"
+2022,GM,EBITDA,"21,605"
+2021,GM,EBITDA,"21,375"
+2023,GM,EBITDA Margin,12.33%
+2022,GM,EBITDA Margin,13.78%
+2021,GM,EBITDA Margin,16.83%
+2020,GM,EBITDA Margin,15.88%
+2019,GM,EBITDA Margin,14.28%
+2023,Ford,EBITDA,"11,981"
+2022,Ford,EBITDA,"12,769"
+2021,Ford,EBITDA,"10,483"
+2023,Ford,EBITDA Margin,6.80%
+2022,Ford,EBITDA Margin,8.08%
+2021,Ford,EBITDA Margin,7.69%
+2020,Ford,EBITDA Margin,4.43%
+2019,Ford,EBITDA Margin,7.35%
+2023,Ford,Gross Profit Margin,6.80%
+2022,Ford,Gross Profit Margin,8.08%
+2021,Ford,Gross Profit Margin,7.69%
+2020,Ford,Gross Profit Margin,4.43%
+2019,Ford,Gross Profit Margin,7.35%
+2023,GM,Gross Profit Margin,5.41%
+2022,GM,Gross Profit Margin,6.58%
+2021,GM,Gross Profit Margin,7.34%
+2020,GM,Gross Profit Margin,5.42%
+2019,GM,Gross Profit Margin,3.99%
+2023,Ford,Free Cash Flow,"6,682"
+2022,Ford,Free Cash Flow,-13
+2021,Ford,Free Cash Flow,"9,560"
+2023,GM,Free Cash Flow,"9,960"
+2022,GM,Free Cash Flow,"6,805"
+2021,GM,Free Cash Flow,"7,679"
+2023,Ford,Free Cash Flow Margin ,4%
+2022,Ford,Free Cash Flow Margin ,-0.01%
+2021,Ford,Free Cash Flow Margin ,7%
+2023,GM,Free Cash Flow Margin ,6%
+2022,GM,Free Cash Flow Margin ,4%
+2021,GM,Free Cash Flow Margin ,6%
+2021,Ford,Current Ratio,1.2
+2022,Ford,Current Ratio,1.2
+2023,Ford,Current Ratio,1.2
+2021,GM,Current Ratio,1.1
+2022,GM,Current Ratio,1.1
+2023,GM,Current Ratio,1.08
+2021,Ford,Quick Ratio,1.07
+2022,Ford,Quick Ratio,1.06
+2023,Ford,Quick Ratio,1.06
+2021,GM,Quick Ratio,0.93
+2022,GM,Quick Ratio,0.93
+2023,GM,Quick Ratio,0.9
+2021,Ford,Cash Flow Liquidity,0.72
+2022,Ford,Cash Flow Liquidity,0.53
+2023,Ford,Cash Flow Liquidity,0.54
+2021,GM,Cash Flow Liquidity,0.59
+2022,GM,Cash Flow Liquidity,0.52
+2023,GM,Cash Flow Liquidity,0.5
+2021,Ford,Average collection Period,117.56
+2022,Ford,Average collection Period,125.74
+2023,Ford,Average collection Period,128.49
+2021,GM,Average collection Period,38.32
+2022,GM,Average collection Period,31.05
+2023,GM,Average collection Period,26.29
+2021,Ford,Days Inventory Held,38.41
+2022,Ford,Days Inventory Held,38.24
+2023,Ford,Days Inventory Held,37.94
+2021,GM,Days Inventory Held,40.28
+2022,GM,Days Inventory Held,38.3
+2023,GM,Days Inventory Held,36.69
+2021,Ford,Days Payable Outstanding,71.15
+2022,Ford,Days Payable Outstanding,69.64
+2023,Ford,Days Payable Outstanding,69.02
+2021,GM,Days Payable Outstanding,63.25
+2022,GM,Days Payable Outstanding,68.52
+2023,GM,Days Payable Outstanding,63.13
+2021,Ford,Cash Conversion Cycle,84.82
+2022,Ford,Cash Conversion Cycle,94.44
+2023,Ford,Cash Conversion Cycle,103.42
+2021,GM,Cash Conversion Cycle,15.36
+2022,GM,Cash Conversion Cycle,0.84
+2023,GM,Cash Conversion Cycle,0.12
+2021,Ford,Cash Flow From Operating Activities,"15,787.00"
+2022,Ford,Cash Flow From Operating Activities,"6,853.00"
+2023,Ford,Cash Flow From Operating Activities,"14,918.00"
+2021,GM,Cash Flow From Operating Activities,"15,188.00"
+2022,GM,Cash Flow From Operating Activities,"16,403.00"
+2023,GM,Cash Flow From Operating Activities,"20,930.00"
+2023,GM,Accounts Receivable Turnover ,13.88
+2022,GM,Accounts Receivable Turnover ,11.76
+2021,GM,Accounts Receivable Turnover ,17.18
+2023,GM,Payables Turnover,5.78
+2022,GM,Payables Turnover,5.33
+2021,GM,Payables Turnover,5.77
+2023,GM,Total Asset Turnover,0.63
+2022,GM,Total Asset Turnover,0.59
+2021,GM,Total Asset Turnover,0.52
+2023,GM,Inventory Turnover,9.87
+2022,GM,Inventory Turnover,9.53
+2021,GM,Inventory Turnover,9.06
+2023,GM,Fixed Asset Turnover,3.41
+2022,GM,Fixed Asset Turnover,3.46
+2021,GM,Fixed Asset Turnover,3.09
+2023,Ford,Accounts Receivable Turnover ,11.29
+2022,Ford,Accounts Receivable Turnover ,10.05
+2021,Ford,Accounts Receivable Turnover ,11.99
+2023,Ford,Payables Turnover,5.79
+2022,Ford,Payables Turnover,5.25
+2021,Ford,Payables Turnover,5.13
+2023,Ford,Total Asset Turnover,0.64
+2022,Ford,Total Asset Turnover,0.62
+2021,Ford,Total Asset Turnover,0.53
+2023,Ford,Inventory Turnover,9.62
+2022,Ford,Inventory Turnover,9.55
+2021,Ford,Inventory Turnover,9.5
+2023,Ford,Fixed Asset Turnover,4.32
+2022,Ford,Fixed Asset Turnover,4.24
+2021,Ford,Fixed Asset Turnover,3.67
+2023,Ford,EPS,1.08
+2022,Ford,EPS,-0.49
+2021,Ford,EPS,4.45
+2020,Ford,EPS,-0.32
+2019,Ford,EPS,0.01
