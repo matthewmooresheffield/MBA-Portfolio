@@ -8,7 +8,7 @@ SQL Server Project: This project involves designing and managing a database for 
 
 Tableau Project (Financial Analysis): This  project provides a financial analysis of Ford and GM, focusing on key metrics like net income, debt to EBITDA, cash flow liquidity, and gross profit margin. The project visualizes Ford's net income with a running total, compares financial metrics using a heat map, illustrates debt to EBITDA ratios with pie charts, and analyzes gross profit margins over multiple years. It demonstrates skills in data visualization, comparative analysis, and trend identification using Tableau.
 
-*I have also included a PDF of the presentation that these visualizations were used to inform in case the user does not have an access to Tableau. 
+*I have also included a PDF of the presentation that these visualizations were used to inform in case the user does not have access to Tableau. 
 
 
 Tableau Project (Health Data): This project analyzes health code violations at McDonald's locations across New York City boroughs using Tableau. The aim is to compare violations across ZIP codes and identify trends over recent years. Geospatial Analysis: Mapped violation data to identify geographic patterns and hotspots. Data Visualization: Utilized Tableau to create intuitive visualizations that communicate complex data effectively. Trend Analysis: Analyzed temporal data to uncover trends in health code violations over multiple years.
